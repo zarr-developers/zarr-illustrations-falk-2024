@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/829485230.svg)](https://zenodo.org/badge/latestdoi/829485230)
+
 # Zarr illustrations by Henning Falk (July 2024)
 
 These illustrations were contracted by Zarr, a [NumFOCUS](https://numfocus.org) sponsored project, from [Henning Falk](https://twitter.com/DrHenningFalk) and are free to re-use under a CC-BY license.
@@ -8,7 +10,7 @@ Please include an attribution similar to: *["Common language"](https://github.co
 
 ## Citing the illustrations
 
-Falk, H. zarr-developers/zarr-illustrations-falk-2024 | Zenodo [WWW Document], 2024. URL TBD
+Falk, H. zarr-developers/zarr-illustrations-falk-2024 | Zenodo [WWW Document], 2024. URL https://doi.org/10.5281/zenodo.12751377 (accessed 7.16.2024).
 
 ## Images by name
 
