@@ -11,7 +11,7 @@ by [Henning Falk](https://twitter.com/DrHenningFalk), ©2022 [NumFOCUS](https://
 
 ## Citing the illustrations
 
-Falk, H. zarr-developers/zarr-illustrations-falk-2024 | Zenodo [WWW Document], 2024. URL https://doi.org/10.5281/zenodo.12751377 (accessed 7.16.2024).
+Falk, H. zarr-developers/zarr-illustrations-falk-2024 | Zenodo [WWW Document], 2024. URL https://doi.org/10.5281/zenodo.12751376 (accessed 7.16.2024).
 
 ## Images by name
 
