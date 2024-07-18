@@ -5,16 +5,15 @@
 # variable "DPI" to a space separated list will change that.
 #
 
-DPI=${DPI:-"300 1200"}
-
 set -e
 set -u
-set -x
 
-for dpi in ${DPI}; do
-    mkdir -p ${dpi}dpi
-    for pdf in originals/*.pdf; do
-        file=$(basename ${pdf})
-        convert -density ${dpi} ${pdf} -trim +repage  ${dpi}dpi/${file%%.pdf}-${dpi}dpi.png
-    done
-done
+# 3296x2657
+#convert -density 300 originals/common-language.pdf -trim +repage 300dpi/common-language-300dpi.png
+#convert -density 300 originals/mind-the-gap.pdf -trim +repage -resize 3296x2657 300dpi/mind-the-gap-300dpi.png
+convert -colors 255 -density 300 originals/mind-the-gap.pdf -trim +repage -resize 3296x2657 300dpi/mind-the-gap-300dpi.png
+
+# 11314x8830
+#convert -density 1200 originals/common-language.pdf -trim +repage 1200dpi/common-language-1200dpi.png
+#convert -density 1200 originals/mind-the-gap.pdf -trim +repage -resize 11314x8830 1200dpi/mind-the-gap-1200dpi.png
+convert -colors 255 -density 1200 originals/mind-the-gap.pdf -trim +repage -resize 11314x8830 1200dpi/mind-the-gap-1200dpi.png
