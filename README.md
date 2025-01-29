@@ -2,12 +2,12 @@
 
 # Zarr illustrations by Henning Falk (July 2024)
 
-These illustrations were contracted by Zarr, a [NumFOCUS](https://numfocus.org) sponsored project, from [Henning Falk](https://twitter.com/DrHenningFalk) and are free to re-use under a CC-BY license.
+These illustrations were contracted by Zarr, a [NumFOCUS](https://numfocus.org) sponsored project, from [Henning Falk](https://falk-illustrations.de/) and are free to re-use under a CC-BY license.
 
 ## Attribution
 
 Please include an attribution similar to: *["Mind the Gap"](https://github.com/zarr-developers/zarr-illustrations-falk-2024/blob/main//300dpi/mind-the-gap-300dpi.png)
-by [Henning Falk](https://twitter.com/DrHenningFalk), ©2022 [NumFOCUS](https://numfocus.org/), is used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Modifications to this photo include cropping.*
+by [Henning Falk](https://falk-illustrations.de/), ©2022 [NumFOCUS](https://numfocus.org/), is used under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Modifications to this photo include cropping.*
 
 ## Citing the illustrations
 
